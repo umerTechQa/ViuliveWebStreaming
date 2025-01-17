@@ -43,6 +43,7 @@ export class ViuLive{
            console.log("actual password error message is: " +password_actual_error)
       console.log("password error messages has been displayed: pass");
       await this.page.fill(this.password,"12345678")
+      //sdhsjdsjd
 
      }
     }
